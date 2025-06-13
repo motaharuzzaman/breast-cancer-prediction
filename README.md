@@ -69,6 +69,7 @@ Breast cancer is one of the leading causes of death among women worldwide. Early
 
 ## 📊 Confusion Matrix
 [[75 0]
+
 [ 1 38]]
 
 - Only **one misclassification** on the test set.
